@@ -18,4 +18,5 @@ console.log(age);
 console.log(typeof "kamdev")
 console.log(typeof age)//number
 console.log(typeof null)//object
+
 console.log(typeof undefined)//undefined
